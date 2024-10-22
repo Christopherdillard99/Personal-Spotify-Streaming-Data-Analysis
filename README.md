@@ -4,13 +4,13 @@
 ## In this project, I explored:
 1. Streaming data from June 2016 to March 2024, needed to be requested from my account settings (took about a month to receive data files)
 2. I joined the files for different years in Tableau and cleaned up data (nulls, odd variable names, etc.).
-3. I saved photos of top 10 artists by downloading .png file from web
+3. I saved the photos of my top 10 artists by downloading .png file from the web
    - next, photos are cropped by saving them into a circle shape in MS Word.
-   - these photos are them saved into the icons folder for tableau.
+   - these photos were then saved into the icons folder for Tableau.
    - each top 10 artist photo and top 5 album cover reveals more data when hovered over.
 4. Similarly, I downloaded the KPI symbols from icons8.com and saved them to KPI folder.
 5. I embedded a playlist of the top 100 songs by streams that I created on my spotify account.
-   - Spotify allows you to share it as a url, just need to change song order if you want a different background color.
+   - Spotify allows you to share it as a url; you just need to change song order if you want a different background color.
 6. I concatenated the song and artist names to create a new song variable, improving appearance and eliminating duplicates using a calculated field with a pipe symbol between them.
 7. I then chose the right color palette for the dashboard.
 8. Finally, I created a version of the dashboard that is optimized for mobile view.
